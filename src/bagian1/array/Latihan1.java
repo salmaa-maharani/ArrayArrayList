@@ -1,5 +1,6 @@
 package bagian1.array;
 
+// Latihan Array - Bagian 1
 public class Latihan1 {
     public static void main(String[] args) {
         // Cara 1: deklarasi lalu isi per indeks
@@ -9,10 +10,8 @@ public class Latihan1 {
         nilai[2] = 90;
         nilai[3] = 60;
         nilai[4] = 85;
-
         // Cara 2: langsung diisi saat dibuat
         String[] nama = {"Andi", "Budi", "Citra"};
-
         System.out.println("Nilai pertama : " + nilai[0]);
         System.out.println("Nilai ketiga  : " + nilai[2]);
         System.out.println("Mahasiswa ke-2: " + nama[1]);
