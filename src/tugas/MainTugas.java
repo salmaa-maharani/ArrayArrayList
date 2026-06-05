@@ -1,5 +1,6 @@
 // Nama: Salmaa Dzakirah Maharani
 // NPM: 2410010104
+// Tugas Akhir: Pengelolaan Nilai Mahasiswa
 package tugas;
 
 public class MainTugas {
